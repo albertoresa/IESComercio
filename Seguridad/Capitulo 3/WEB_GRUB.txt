@@ -1,0 +1,18 @@
+https://geekland.eu/proteger-el-grub-con-contrasena
+
+Práctica 3.5
+- Windows.
+	Recuperación de datos con Ophcrack.
+	Crear varios usuarios en Windows con diferentes tipos de contraseñas.
+	Intentar averiguar las contraseñas por fuerza bruta y despues con archivo de tablas.
+	Poner el disco duro como SATA.
+
+-Linux.
+	Usaremos el programa John the Ripper.
+	Realizarlo de forma sigle o con wordlist que tenemos que introducir un archivo.
+	Despues hacerlo con incremental que es por fuerza bruta.
+
+Práctica 3.6
+	Solo se realizara en Windows.
+	Usar Ultimate Boot CD, ERD COommander o Win Internals.
+	Centro de accesibilidad modificar el seth.exe por cmd.exe.

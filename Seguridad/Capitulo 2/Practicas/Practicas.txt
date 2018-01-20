@@ -1,0 +1,20 @@
+Práctica 2.2
+- Windows
+	Copia de seguridad con cobian y restaurar tras borrar un archivo.
+	Copia de seguridad con cobian y envio por FTP y SSL
+
+- Linux
+	Copia de seguridad con fwbackups y restaurar. www.diffingo.com
+
+Práctica 2.3
+- Windows
+	Recuperación de datos de una memoria USB con recuva
+
+- Linux
+	Recuperación de datos de una memoria USB con Foremost
+
+Práctica freeNAS
+- Windows
+	Copia de seguridad Delta copy a servidor freeNAS y restauración
+- Linux
+	Copia con Rsync + ssh  y resturación.

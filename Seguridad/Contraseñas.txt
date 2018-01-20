@@ -1,0 +1,3 @@
+KaliLinux
+Usuario - root
+Contraseña - A1b2c3d4.
